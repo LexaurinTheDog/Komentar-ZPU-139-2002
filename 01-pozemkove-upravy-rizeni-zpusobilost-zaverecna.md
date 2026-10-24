@@ -102,6 +102,11 @@ U vlastníků platí **fikce souhlasu** při nevyjádření ve stanovené lhůt�
 
 **Odst. 4** chrání státní pozemky původně církevní až do zápisu práv na základě listin o vydání podle zákona č. 428/2012 Sb.: vedou se odděleně, nepoužijí se pro společná zařízení, a na nově vzniklé pozemky se hledí jako na původní majetek; tato skutečnost se uvede v rozhodnutí podle § 11 odst. 8.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2255/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E57AF2167AE3C7C1258272003C1553?openDocument) — 6. 2. 2018, kat. A
+  > „Nebylo-li s původním majetkem církví a náboženských společností v rámci pozemkových úprav ve smyslu zákona č. 139/2002 Sb. nakládáno odděleně od jiné půdy ve vlastnictví státu, nemohla nastat zákonná fikce předvídaná v § 3 odst. 5 zákona č. 139/2002 Sb., ve znění účinném do 31. 12. 2012 (v současné době § 3 odst. 4 zákona č. 139/2002 Sb.)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pozemkový úřad zahrne do obvodu zahradu u rodinného domu; vlastnice na výzvu ve stanovené lhůtě nereaguje, později namítá, že s řešením nesouhlasila. **2. Právní otázka.** Byla zahrada řešena oprávněně? **3. Použitelné právo.** § 3 odst. 3 věty čtvrtá a pátá ZPU. **4. Subsumpce.** Zahrada vyžaduje souhlas vlastníka; ten je při nevyjádření ve lhůtě fingován, pokud byla výzva řádně doručena a lhůta určena. **5. Řešení.** Řešení je zákonné; obrana se soustředí na doručení výzvy a přiměřenost lhůty, případně na zpětvzetí souhlasu se souhlasem pozemkového úřadu (§ 9 odst. 23). **6. Varianty.** Jde-li o státní pozemek v národní přírodní rezervaci, fikce souhlasu MŽP neplatí — bez výslovného souhlasu jej řešit nelze.
